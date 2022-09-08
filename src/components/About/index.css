@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.about-heading {
+  margin-bottom: 30px;
+}

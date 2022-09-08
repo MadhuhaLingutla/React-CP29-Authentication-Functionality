@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Roboto';
+}
+
+.not-found-container {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
